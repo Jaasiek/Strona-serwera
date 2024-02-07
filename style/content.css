@@ -1,0 +1,6 @@
+div.content {
+  background-image: url("/Assets/images/daycity.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}

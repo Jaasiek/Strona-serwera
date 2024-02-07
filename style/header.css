@@ -2,3 +2,18 @@ ul {
   display: flex;
   gap: 3.125rem;
 }
+
+header > nav > ul {
+  display: flex;
+  flex-direction: row;
+  gap: 6.25rem;
+  color: var(--text-color-1);
+}
+
+header > nav > ul > a:hover {
+  font-weight: 700;
+}
+
+header > nav > ul > a:first-child {
+  font-weight: 600;
+}
